@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4316a8d9-d39c-493b-907f-d9f4daa2636b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NeuralNetworkProject-2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NeuralNetworkProject-2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4316a8d9-d39c-493b-907f-d9f4daa2636b" name="Changes" comment="Added keras &amp; tensorflow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -93,14 +91,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729506108769</updated>
-      <workItem from="1729506112349" duration="967000" />
+      <workItem from="1729506112349" duration="1419000" />
     </task>
+    <task id="LOCAL−00001" summary="Added keras &amp; tensorflow">
+      <option name="closed" value="true" />
+      <created>1729507131607</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1729507131607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added keras &amp; tensorflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added keras &amp; tensorflow" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NeuralNetworkProject_2024$main.coverage" NAME="main Coverage Results" MODIFIED="1729507039807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NeuralNetworkProject_2024$main.coverage" NAME="main Coverage Results" MODIFIED="1729507081040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
